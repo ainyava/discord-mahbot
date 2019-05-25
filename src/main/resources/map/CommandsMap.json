@@ -1,0 +1,5 @@
+{
+    "Spank":    "python commands/Spank.py",
+    "GetTrack": "python commands/GetTrack.py",
+    "CallForGame": "python commands/CallForGame.py"
+}

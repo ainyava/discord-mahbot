@@ -1,0 +1,642 @@
+[
+    {
+        "shortcut": "7daghighe",
+        "file": ".\\effects\\7daghighe.mp3"
+    },
+    {
+        "shortcut": "ali",
+        "file": ".\\effects\\ali.mp3"
+    },
+    {
+        "shortcut": "an",
+        "file": ".\\effects\\an.mp3"
+    },
+    {
+        "shortcut": "applelaugh",
+        "file": ".\\effects\\applelaugh.mp3"
+    },
+    {
+        "shortcut": "bang",
+        "file": ".\\effects\\bang.mp3"
+    },
+    {
+        "shortcut": "basedige",
+        "file": ".\\effects\\basedige.mp3"
+    },
+    {
+        "shortcut": "boobad",
+        "file": ".\\effects\\boobad.mp3"
+    },
+    {
+        "shortcut": "broken-glass",
+        "file": ".\\effects\\broken-glass.mp3"
+    },
+    {
+        "shortcut": "burp",
+        "file": ".\\effects\\burp.mp3"
+    },
+    {
+        "shortcut": "carhorn",
+        "file": ".\\effects\\carhorn.mp3"
+    },
+    {
+        "shortcut": "chekhabaretoune",
+        "file": ".\\effects\\chekhabaretoune.mp3"
+    },
+    {
+        "shortcut": "deeznuts",
+        "file": ".\\effects\\deeznuts.mp3"
+    },
+    {
+        "shortcut": "derp",
+        "file": ".\\effects\\derp.mp3"
+    },
+    {
+        "shortcut": "derpyell",
+        "file": ".\\effects\\derpyell.mp3"
+    },
+    {
+        "shortcut": "difficulty",
+        "file": ".\\effects\\difficulty.mp3"
+    },
+    {
+        "shortcut": "doshvari-full",
+        "file": ".\\effects\\doshvari-full.mp3"
+    },
+    {
+        "shortcut": "doshvari",
+        "file": ".\\effects\\doshvari.mp3"
+    },
+    {
+        "shortcut": "drum-boom",
+        "file": ".\\effects\\drum-boom.mp3"
+    },
+    {
+        "shortcut": "dude",
+        "file": ".\\effects\\dude.mp3"
+    },
+    {
+        "shortcut": "duel",
+        "file": ".\\effects\\duel.mp3"
+    },
+    {
+        "shortcut": "dun",
+        "file": ".\\effects\\dun.mp3"
+    },
+    {
+        "shortcut": "epic-win",
+        "file": ".\\effects\\epic-win.mp3"
+    },
+    {
+        "shortcut": "error",
+        "file": ".\\effects\\error.mp3"
+    },
+    {
+        "shortcut": "fail",
+        "file": ".\\effects\\fail.mp3"
+    },
+    {
+        "shortcut": "farnood",
+        "file": ".\\effects\\farnood.mp3"
+    },
+    {
+        "shortcut": "fart",
+        "file": ".\\effects\\fart.mp3"
+    },
+    {
+        "shortcut": "gotcha",
+        "file": ".\\effects\\gotcha.mp3"
+    },
+    {
+        "shortcut": "headshot",
+        "file": ".\\effects\\headshot.mp3"
+    },
+    {
+        "shortcut": "heaven",
+        "file": ".\\effects\\heaven.mp3"
+    },
+    {
+        "shortcut": "helpme",
+        "file": ".\\effects\\helpme.mp3"
+    },
+    {
+        "shortcut": "heyey",
+        "file": ".\\effects\\heyey.mp3"
+    },
+    {
+        "shortcut": "iIlluminati",
+        "file": ".\\effects\\iIlluminati.mp3"
+    },
+    {
+        "shortcut": "imsexy",
+        "file": ".\\effects\\imsexy.mp3"
+    },
+    {
+        "shortcut": "inception",
+        "file": ".\\effects\\inception.mp3"
+    },
+    {
+        "shortcut": "jeff",
+        "file": ".\\effects\\jeff.mp3"
+    },
+    {
+        "shortcut": "jigar",
+        "file": ".\\effects\\jigar.mp3"
+    },
+    {
+        "shortcut": "JohnCena",
+        "file": ".\\effects\\JohnCena.mp3"
+    },
+    {
+        "shortcut": "kalle-shiri",
+        "file": ".\\effects\\kalle-shiri.mp3"
+    },
+    {
+        "shortcut": "kallim",
+        "file": ".\\effects\\kallim.mp3"
+    },
+    {
+        "shortcut": "karim",
+        "file": ".\\effects\\karim.mp3"
+    },
+    {
+        "shortcut": "khodkafa-full",
+        "file": ".\\effects\\khodkafa-full.mp3"
+    },
+    {
+        "shortcut": "khodkafa",
+        "file": ".\\effects\\khodkafa.mp3"
+    },
+    {
+        "shortcut": "laugh1",
+        "file": ".\\effects\\laugh1.mp3"
+    },
+    {
+        "shortcut": "laugh2",
+        "file": ".\\effects\\laugh2.mp3"
+    },
+    {
+        "shortcut": "laugh3",
+        "file": ".\\effects\\laugh3.mp3"
+    },
+    {
+        "shortcut": "laugh4",
+        "file": ".\\effects\\laugh4.mp3"
+    },
+    {
+        "shortcut": "laugh5",
+        "file": ".\\effects\\laugh5.mp3"
+    },
+    {
+        "shortcut": "Leeroy",
+        "file": ".\\effects\\Leeroy.mp3"
+    },
+    {
+        "shortcut": "LOL",
+        "file": ".\\effects\\LOL.mp3"
+    },
+    {
+        "shortcut": "loser",
+        "file": ".\\effects\\loser.mp3"
+    },
+    {
+        "shortcut": "mosalmoun",
+        "file": ".\\effects\\mosalmoun.mp3"
+    },
+    {
+        "shortcut": "mystery",
+        "file": ".\\effects\\mystery.mp3"
+    },
+    {
+        "shortcut": "nakheyr",
+        "file": ".\\effects\\nakheyr.mp3"
+    },
+    {
+        "shortcut": "nope",
+        "file": ".\\effects\\nope.mp3"
+    },
+    {
+        "shortcut": "pa-larz",
+        "file": ".\\effects\\pa-larz.mp3"
+    },
+    {
+        "shortcut": "party-troll",
+        "file": ".\\effects\\party-troll.mp3"
+    },
+    {
+        "shortcut": "pretty-good",
+        "file": ".\\effects\\pretty-good.mp3"
+    },
+    {
+        "shortcut": "punch",
+        "file": ".\\effects\\punch.mp3"
+    },
+    {
+        "shortcut": "rangin-kamoun",
+        "file": ".\\effects\\rangin-kamoun.mp3"
+    },
+    {
+        "shortcut": "retard",
+        "file": ".\\effects\\retard.mp3"
+    },
+    {
+        "shortcut": "rumble",
+        "file": ".\\effects\\rumble.mp3"
+    },
+    {
+        "shortcut": "run-dubstep",
+        "file": ".\\effects\\run-dubstep.mp3"
+    },
+    {
+        "shortcut": "run",
+        "file": ".\\effects\\run.mp3"
+    },
+    {
+        "shortcut": "sad-violin",
+        "file": ".\\effects\\sad-violin.mp3"
+    },
+    {
+        "shortcut": "scratch",
+        "file": ".\\effects\\scratch.mp3"
+    },
+    {
+        "shortcut": "scream-goat",
+        "file": ".\\effects\\scream-goat.mp3"
+    },
+    {
+        "shortcut": "shabeani",
+        "file": ".\\effects\\shabeani.mp3"
+    },
+    {
+        "shortcut": "shib",
+        "file": ".\\effects\\shib.mp3"
+    },
+    {
+        "shortcut": "shut-ass",
+        "file": ".\\effects\\shut-ass.mp3"
+    },
+    {
+        "shortcut": "shutdown",
+        "file": ".\\effects\\shutdown.mp3"
+    },
+    {
+        "shortcut": "smack",
+        "file": ".\\effects\\smack.mp3"
+    },
+    {
+        "shortcut": "splat",
+        "file": ".\\effects\\splat.mp3"
+    },
+    {
+        "shortcut": "stfu",
+        "file": ".\\effects\\stfu.mp3"
+    },
+    {
+        "shortcut": "surprise",
+        "file": ".\\effects\\surprise.mp3"
+    },
+    {
+        "shortcut": "suspense",
+        "file": ".\\effects\\suspense.mp3"
+    },
+    {
+        "shortcut": "tadah",
+        "file": ".\\effects\\tadah.mp3"
+    },
+    {
+        "shortcut": "theone",
+        "file": ".\\effects\\theone.mp3"
+    },
+    {
+        "shortcut": "titanic",
+        "file": ".\\effects\\titanic.mp3"
+    },
+    {
+        "shortcut": "trickshot",
+        "file": ".\\effects\\trickshot.mp3"
+    },
+    {
+        "shortcut": "trololo",
+        "file": ".\\effects\\trololo.mp3"
+    },
+    {
+        "shortcut": "weed-in-coconut",
+        "file": ".\\effects\\weed-in-coconut.mp3"
+    },
+    {
+        "shortcut": "what-happned",
+        "file": ".\\effects\\what-happned.mp3"
+    },
+    {
+        "shortcut": "wtf-are-those",
+        "file": ".\\effects\\wtf-are-those.mp3"
+    },
+    {
+        "shortcut": "wtf-boom",
+        "file": ".\\effects\\wtf-boom.mp3"
+    },
+    {
+        "shortcut": "wtf-was-that",
+        "file": ".\\effects\\wtf-was-that.mp3"
+    },
+    {
+        "shortcut": "wtf",
+        "file": ".\\effects\\wtf.mp3"
+    },
+    {
+        "shortcut": "yeay",
+        "file": ".\\effects\\yeay.mp3"
+    },
+    {
+        "shortcut": "ziredelam",
+        "file": ".\\effects\\ziredelam.mp3"
+    },
+    {
+        "shortcut": "zordberg",
+        "file": ".\\effects\\zordberg.mp3"
+    },
+    {
+        "shortcut": "feed-courier",
+        "file": ".\\games\\dota\\iranian\\feed-courier.mp3"
+    },
+    {
+        "shortcut": "miss",
+        "file": ".\\games\\dota\\iranian\\miss.mp3"
+    },
+    {
+        "shortcut": "mother-fucker",
+        "file": ".\\games\\dota\\iranian\\mother-fucker.mp3"
+    },
+    {
+        "shortcut": "mother-pornstar",
+        "file": ".\\games\\dota\\iranian\\mother-pornstar.mp3"
+    },
+    {
+        "shortcut": "omg-fuck",
+        "file": ".\\games\\dota\\iranian\\omg-fuck.mp3"
+    },
+    {
+        "shortcut": "please-report",
+        "file": ".\\games\\dota\\iranian\\please-report.mp3"
+    },
+    {
+        "shortcut": "please-stop",
+        "file": ".\\games\\dota\\iranian\\please-stop.mp3"
+    },
+    {
+        "shortcut": "relax",
+        "file": ".\\games\\dota\\iranian\\relax.mp3"
+    },
+    {
+        "shortcut": "shit-the-game",
+        "file": ".\\games\\dota\\iranian\\shit-the-game.mp3"
+    },
+    {
+        "shortcut": "shit-the-mothers",
+        "file": ".\\games\\dota\\iranian\\shit-the-mothers.mp3"
+    },
+    {
+        "shortcut": "combowhore",
+        "file": ".\\games\\dota\\kill\\combowhore.mp3"
+    },
+    {
+        "shortcut": "dominating",
+        "file": ".\\games\\dota\\kill\\dominating.mp3"
+    },
+    {
+        "shortcut": "doublekill",
+        "file": ".\\games\\dota\\kill\\doublekill.mp3"
+    },
+    {
+        "shortcut": "firstblood",
+        "file": ".\\games\\dota\\kill\\firstblood.mp3"
+    },
+    {
+        "shortcut": "godlike",
+        "file": ".\\games\\dota\\kill\\godlike.mp3"
+    },
+    {
+        "shortcut": "hollyshit",
+        "file": ".\\games\\dota\\kill\\hollyshit.mp3"
+    },
+    {
+        "shortcut": "killingspree",
+        "file": ".\\games\\dota\\kill\\killingspree.mp3"
+    },
+    {
+        "shortcut": "megakill",
+        "file": ".\\games\\dota\\kill\\megakill.mp3"
+    },
+    {
+        "shortcut": "monsterkill",
+        "file": ".\\games\\dota\\kill\\monsterkill.mp3"
+    },
+    {
+        "shortcut": "ownage",
+        "file": ".\\games\\dota\\kill\\ownage.mp3"
+    },
+    {
+        "shortcut": "rampage",
+        "file": ".\\games\\dota\\kill\\rampage.mp3"
+    },
+    {
+        "shortcut": "triplekill",
+        "file": ".\\games\\dota\\kill\\triplekill.mp3"
+    },
+    {
+        "shortcut": "ultrakill",
+        "file": ".\\games\\dota\\kill\\ultrakill.mp3"
+    },
+    {
+        "shortcut": "unstopable",
+        "file": ".\\games\\dota\\kill\\unstopable.mp3"
+    },
+    {
+        "shortcut": "wickedsick",
+        "file": ".\\games\\dota\\kill\\wickedsick.mp3"
+    },
+    {
+        "shortcut": "coin",
+        "file": ".\\games\\mario\\coin.mp3"
+    },
+    {
+        "shortcut": "jump",
+        "file": ".\\games\\mario\\jump.mp3"
+    },
+    {
+        "shortcut": "coverme",
+        "file": ".\\games\\pubg\\coverme.mp3"
+    },
+    {
+        "shortcut": "dontrush",
+        "file": ".\\games\\pubg\\dontrush.mp3"
+    },
+    {
+        "shortcut": "dontshoot",
+        "file": ".\\games\\pubg\\dontshoot.mp3"
+    },
+    {
+        "shortcut": "enemiesahead",
+        "file": ".\\games\\pubg\\enemiesahead.mp3"
+    },
+    {
+        "shortcut": "getinthecar",
+        "file": ".\\games\\pubg\\getinthecar.mp3"
+    },
+    {
+        "shortcut": "imgoingin",
+        "file": ".\\games\\pubg\\imgoingin.mp3"
+    },
+    {
+        "shortcut": "impressive",
+        "file": ".\\games\\pubg\\impressive.mp3"
+    },
+    {
+        "shortcut": "imreallysorry",
+        "file": ".\\games\\pubg\\imreallysorry.mp3"
+    },
+    {
+        "shortcut": "ineedagun",
+        "file": ".\\games\\pubg\\ineedagun.mp3"
+    },
+    {
+        "shortcut": "keepquiet",
+        "file": ".\\games\\pubg\\keepquiet.mp3"
+    },
+    {
+        "shortcut": "leavetheairdrops",
+        "file": ".\\games\\pubg\\leavetheairdrops.mp3"
+    },
+    {
+        "shortcut": "letsgo",
+        "file": ".\\games\\pubg\\letsgo.mp3"
+    },
+    {
+        "shortcut": "notaproblem",
+        "file": ".\\games\\pubg\\notaproblem.mp3"
+    },
+    {
+        "shortcut": "onewinner",
+        "file": ".\\games\\pubg\\onewinner.mp3"
+    },
+    {
+        "shortcut": "safezone",
+        "file": ".\\games\\pubg\\safezone.mp3"
+    },
+    {
+        "shortcut": "voicechat",
+        "file": ".\\games\\pubg\\voicechat.mp3"
+    },
+    {
+        "shortcut": "ah",
+        "file": ".\\games\\stronghold\\ah.mp3"
+    },
+    {
+        "shortcut": "ahh",
+        "file": ".\\games\\stronghold\\ahh.mp3"
+    },
+    {
+        "shortcut": "attack",
+        "file": ".\\games\\stronghold\\attack.mp3"
+    },
+    {
+        "shortcut": "azdasteto",
+        "file": ".\\games\\stronghold\\azdasteto.mp3"
+    },
+    {
+        "shortcut": "bale",
+        "file": ".\\games\\stronghold\\bale.mp3"
+    },
+    {
+        "shortcut": "bashad",
+        "file": ".\\games\\stronghold\\bashad.mp3"
+    },
+    {
+        "shortcut": "bedardnakhor",
+        "file": ".\\games\\stronghold\\bedardnakhor.mp3"
+    },
+    {
+        "shortcut": "congrats",
+        "file": ".\\games\\stronghold\\congrats.mp3"
+    },
+    {
+        "shortcut": "eyanmagh",
+        "file": ".\\games\\stronghold\\eyanmagh.mp3"
+    },
+    {
+        "shortcut": "hanouzzendei",
+        "file": ".\\games\\stronghold\\hanouzzendei.mp3"
+    },
+    {
+        "shortcut": "kheylibadshod",
+        "file": ".\\games\\stronghold\\kheylibadshod.mp3"
+    },
+    {
+        "shortcut": "mojebenarahati",
+        "file": ".\\games\\stronghold\\mojebenarahati.mp3"
+    },
+    {
+        "shortcut": "mojoudesemej",
+        "file": ".\\games\\stronghold\\mojoudesemej.mp3"
+    },
+    {
+        "shortcut": "nemikhastam",
+        "file": ".\\games\\stronghold\\nemikhastam.mp3"
+    },
+    {
+        "shortcut": "sabrman",
+        "file": ".\\games\\stronghold\\sabrman.mp3"
+    },
+    {
+        "shortcut": "sedayemarg",
+        "file": ".\\games\\stronghold\\sedayemarg.mp3"
+    },
+    {
+        "shortcut": "soltan-koshbakhti",
+        "file": ".\\games\\stronghold\\soltan-koshbakhti.mp3"
+    },
+    {
+        "shortcut": "soltan-narahat",
+        "file": ".\\games\\stronghold\\soltan-narahat.mp3"
+    },
+    {
+        "shortcut": "soltan-oza",
+        "file": ".\\games\\stronghold\\soltan-oza.mp3"
+    },
+    {
+        "shortcut": "soltan-rooz",
+        "file": ".\\games\\stronghold\\soltan-rooz.mp3"
+    },
+    {
+        "shortcut": "vaghteraftan",
+        "file": ".\\games\\stronghold\\vaghteraftan.mp3"
+    },
+    {
+        "shortcut": "victories",
+        "file": ".\\games\\stronghold\\victories.mp3"
+    },
+    {
+        "shortcut": "victory",
+        "file": ".\\games\\stronghold\\victory.mp3"
+    },
+    {
+        "shortcut": "yekidige",
+        "file": ".\\games\\stronghold\\yekidige.mp3"
+    },
+    {
+        "shortcut": "yekikamtar",
+        "file": ".\\games\\stronghold\\yekikamtar.mp3"
+    },
+    {
+        "shortcut": "yekmozahem",
+        "file": ".\\games\\stronghold\\yekmozahem.mp3"
+    },
+    {
+        "shortcut": "yell",
+        "file": ".\\games\\stronghold\\yell.mp3"
+    },
+    {
+        "shortcut": "zamanmordan",
+        "file": ".\\games\\stronghold\\zamanmordan.mp3"
+    }
+]
